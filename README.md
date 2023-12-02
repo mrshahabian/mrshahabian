@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Reza shahabian @mrshahabian
+- 👋 Hi, I’m Mohamad Reza shahabian @mrshahabian
 - 👀 I’m interested in Robotics, specifically in Human robot interaction and Machine Learning methods
 - 🌱 I’m currently learning Generative Adversarial Network(GAN)
 - 💞️ I’m looking to collaborate on GAN related Projects
