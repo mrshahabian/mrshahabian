@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Mohamad Reza shahabian @mrshahabian
-- 👀 I’m interested in Robotics, ML, IoT and Web developmet
-- 📫 How to reach me Email: shahabian.reza@gmail.com Linkedin: https://www.linkedin.com/in/mrshahabian/  
+## 👋 Hi, I’m Reza Shahabian (@mrshahabian)
 
-<!---
-mrshahabian/mrshahabian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in **Robotics, AI, Machine Learning, Deep Learning, Agentic AI and IoT**
+- 🚀 Actively working on projects in **AI-driven systems, robotics, and intelligent agents**
+- 📫 How to reach me:  
+  - Email: shahabian.reza@gmail.com  
+  - LinkedIn: https://www.linkedin.com/in/mrshahabian/
